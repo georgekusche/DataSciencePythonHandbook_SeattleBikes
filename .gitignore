@@ -1,0 +1,23 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# OS cruft
+.DS_Store
+
+# Data: ignore all raw/processed unless specifically added
+data/*
+!data/.gitkeep
+
+# Notebooks: allow notebooks but ignore checkpoints
+notebooks/.ipynb_checkpoints/
