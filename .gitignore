@@ -21,3 +21,11 @@ data/*
 
 # Notebooks: allow notebooks but ignore checkpoints
 notebooks/.ipynb_checkpoints/
+
+# Allow raw CSVs in Git
+!data/raw/
+!data/raw/*.csv
+
+# Allow raw data CSVs to be tracked
+!data/raw/
+!data/raw/*.csv
