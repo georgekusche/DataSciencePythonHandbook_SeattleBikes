@@ -11,7 +11,7 @@ Next steps:
 
 Geen src (reusable code) nie, the eenvoudige projek. Ek word wel beter en slimmer by die dag :) 
 
-## Quick start (for your friend
+## Quick start (om maklik te clone)
 
 If you just want to run the notebooks:
 
