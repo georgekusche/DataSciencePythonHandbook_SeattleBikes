@@ -10,3 +10,14 @@ Next steps:
 
 
 Geen src (reusable code) nie, the eenvoudige projek. Ek word wel beter en slimmer by die dag :) 
+
+## Quick start (for your friend
+
+If you just want to run the notebooks:
+
+```bash
+git clone https://github.com/georgekusche/DataSciencePythonHandbook_SeattleBikes.git
+cd DataSciencePythonHandbook_SeattleBikes
+python3 -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+jupyter lab --no-browser
